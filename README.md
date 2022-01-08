@@ -36,4 +36,8 @@ This script is easily adaptable to many different election. It can be used with 
 For future elections this script can be modified in the following ways:
 1. For an election with more than 3 candidates the good news is this script does not need to be changed at all!
     * because it is written with aggregating candidates/counties as lists and not pre-defined counts it will work with different numbers of geos/candidates
-3. If the votes data csv column headers are in a different order the column indexes will need to be changed.
+3. If the votes data csv column headers are in a different order the column indexes will need to be changed.<img width="239" alt="ModExample1" src="https://user-images.githubusercontent.com/95047485/148663490-247b163b-8f0f-4821-9b5f-86b869735c58.PNG">
+4. If the margins in the election are very close and the winning percentages need more decimal places that can easily be changed in the following printout:<img width="328" alt="ModExample2" src="https://user-images.githubusercontent.com/95047485/148663514-94c2affa-ba35-4631-96fe-8f60e1ebf592.PNG">
+
+
+
